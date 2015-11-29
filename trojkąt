@@ -1,0 +1,1 @@
+bok1= int(input('podaj bok trójkata w cm '))
