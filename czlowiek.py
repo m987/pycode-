@@ -26,7 +26,7 @@ for i in imiona:
 		int(input('podaj ilość godz. dla %s:' % i)),
 		)
 
-# for i in imiona:
+ for i in imiona:
 	# ludzie[i] = czlowiek(
 		# # i,
 		# int(input('podaj wage dla %s:' % i)),
